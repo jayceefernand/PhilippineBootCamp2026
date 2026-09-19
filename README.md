@@ -2,7 +2,7 @@
 
 # Tiny Tapeout Wokwi Project Template edited for CDMBootCamp2026
 
-- [Read the documentation for project](docs/info.md)
+- The Wokwi template was copied for demo purposes
 
 ## What is Tiny Tapeout?
 
