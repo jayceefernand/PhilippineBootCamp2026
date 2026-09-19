@@ -1,8 +1,8 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Wokwi Project Template edited for CDMBootCamp2026
+# Tiny Tapeout Wokwi Project edited for CDMBootCamp2026
 
-- The Wokwi template was copied for demo purposes
+- The Wokwi template was copied.
 
 ## What is Tiny Tapeout?
 
